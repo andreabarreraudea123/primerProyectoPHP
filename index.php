@@ -21,6 +21,7 @@ print("<br>");
 
 echo("Mi Nombre es ".$nombre."y la edad es:" .$edad);
 
+$costo=5;
 
 
 
